@@ -8,7 +8,14 @@
 *, input, button{
     font-family: Arial, Helvetica, sans-serif;   
 }
+html , body{
+    height: 100%;
+}
 
+body{
+    display: flex;
+    flex-direction: column;
+}
 /*Head*/
 
 .menu{
@@ -78,12 +85,16 @@
 
 .content{
     display: flex;
+    flex: 1;
     flex-direction: column;
     align-items: center;
-  margin-top: 20vh;
-    padding: 50px, 8px,0px;
+    padding: 56px 8px 0;
 }
 
+
+.content__logo{
+    height: 56px;
+}
 
 .content__search{
     padding-top: 18px;
@@ -138,4 +149,15 @@
 
 .footer__links a:not(:first-child) {
     margin-left: 27px;
+}
+
+
+/* Media Query */
+@media(min-width:763px){
+    .content{
+        padding-top: 120px;
+    }
+    .content__logo{
+        height: 150px;
+    }
 }
