@@ -1,0 +1,9 @@
+  
+/node_modules
+/coverage
+/lib
+/example
+tailwind.config.js
+
+yarn.lock
+yarn-error.log
