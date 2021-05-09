@@ -1,5 +1,5 @@
 <h1 align = "center"> Clone UI 
-  <img align = "center" src = "https://www.flaticon.com/svg/vstatic/svg/1607/1607125.svg?token=exp=1619435812~hmac=46429cc223497cfcd8187a9fbf012d6c" height="60" width="60"/>
+  <img align = "center" src = "ux.svg" height="60" width="60"/>
 </h1>
 
 
