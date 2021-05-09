@@ -1,5 +1,5 @@
 <h1 align = "center"> Clone UI 
-  <img align = "center" src = "ux.svg" height="60" width="60"/>
+  <img align = "center" src = "icons/ux.svg" height="60" width="60"/>
 </h1>
 
 
@@ -14,6 +14,7 @@
   *  <a aria-label="Google Landing Page" href="https://github.com/kadeguilherme/UI-Clone/tree/master/Google-home-page">Google</a>
   *  <a aria-label="Instagram Landing Page" href="https://github.com/kadeguilherme/UI-Clone/tree/master/Instagram-home-page">Instagram</a>
   *  <a aria-label="My Hours Landing Page" href="https://github.com/kadeguilherme/UI-Clone/tree/master/Myhours">My Hours</a>
+  *  <a aria-label="My Cards" href="https://github.com/kadeguilherme/UI-Clone/tree/master/Cards"> Cards</a>
 
 ## Feito com ❤
 
