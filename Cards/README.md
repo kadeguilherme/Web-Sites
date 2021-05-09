@@ -3,13 +3,17 @@
 </h1>
 
 
+
+
   
 ## :page_facing_up: Sobre
+Este repositorio tem como objetivo principal ensinar e aprender um pouco sobre design de Card, Componentes e entre outros voltado para Web. Este projeto é de código aberto para que você possa usá-lo para o que quiser: nas páginas da web ou ganhar dinheiro com isso.
 
 
 
 ## Cards UI
- 
+<h3>Card 01</h3>
+<img src="https://raw.githubusercontent.com/kadeguilherme/UI-Clone/master/icons/print-card01.png" alt="Card-01">
 
 ## Feito com ❤
 
@@ -21,5 +25,3 @@
           <b>Guilherme Aguiar </b>
         </sub>
   </table>
-
-## 😄 Se gostou de algum clone deixa a sua estrela e o follow<br>
