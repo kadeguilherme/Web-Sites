@@ -1,19 +1,15 @@
-<h1 align = "center"> Clone UI 
-  <img align = "center" src = "ux.svg" height="60" width="60"/>
+<h1 align = "center"> Cards
+ 
 </h1>
 
 
   
 ## :page_facing_up: Sobre
- <p align="justify">
-  O Repositorio UI Clone trata-se de recriar interfaces famosas ou interfaces criada por mim.
-</p>
 
 
-## Clone UI
-  *  <a aria-label="Google Landing Page" href="https://github.com/kadeguilherme/UI-Clone/tree/master/Google-home-page">Google</a>
-  *  <a aria-label="Instagram Landing Page" href="https://github.com/kadeguilherme/UI-Clone/tree/master/Instagram-home-page">Instagram</a>
-  *  <a aria-label="My Hours Landing Page" href="https://github.com/kadeguilherme/UI-Clone/tree/master/Myhours">My Hours</a>
+
+## Cards UI
+ 
 
 ## Feito com ❤
 
